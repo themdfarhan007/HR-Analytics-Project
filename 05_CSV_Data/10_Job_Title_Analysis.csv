@@ -1,0 +1,186 @@
+jobtitle,total_employees,employee_percentage
+"Research Assistant II",754,3.39
+"Business Analyst",708,3.19
+"Human Resources Analyst II",613,2.76
+"Research Assistant I",538,2.42
+"Account Executive",505,2.27
+"Data Visualization Specialist",457,2.06
+"Staff Accountant I",441,1.99
+"Human Resources Analyst",408,1.84
+"Software Engineer I",397,1.79
+"Systems Administrator I",374,1.68
+"Analyst Programmer",372,1.67
+"Senior Developer",361,1.63
+"Data Coordiator",356,1.60
+"Business Systems Development Analyst",341,1.54
+"Project Manager",340,1.53
+"Service Tech III",339,1.53
+"Help Desk Technician",336,1.51
+"Software Consultant",336,1.51
+"Service Tech II",327,1.47
+"Service Manager",327,1.47
+"Service Tech",327,1.47
+"Service Coordinator",327,1.47
+"Desktop Support Technician",321,1.45
+"Senior Cost Accountant",317,1.43
+"Cost Accountant",308,1.39
+"Structural Engineer",307,1.38
+"Tax Accountant",303,1.36
+Recruiter,234,1.05
+Operator,225,1.01
+"Solutions Engineer",214,0.96
+"Relationshiop Manager",214,0.96
+"Solutions Engineer Manager",214,0.96
+"Pre-Sales Consultant",214,0.96
+"Account Manager",214,0.96
+"Customer Success Manager",214,0.96
+"Research Associate",208,0.94
+"Senior Recruiter",204,0.92
+"HR Manager",204,0.92
+"Administrative Assistant I",196,0.88
+"Trainer III",182,0.82
+"Senior Trainer",182,0.82
+"Training Manager",182,0.82
+"Assistant Trainer",182,0.82
+"Trainer I",182,0.82
+"Trainer II",182,0.82
+"Budget/Accounting Analyst IV",181,0.81
+"Junior Trainer",181,0.81
+"Budget/Accounting Analyst II",166,0.75
+"Budget/Accounting Analyst I",161,0.72
+"Budget/Accounting Analyst III",160,0.72
+"Senior Quality Engineer",152,0.68
+"Senior Editor",141,0.63
+"Quality Control Specialist",138,0.62
+"Media Manager I",129,0.58
+"Support Staff",104,0.47
+"Staff Accountant IV",102,0.46
+"Software Engineer III",100,0.45
+"Web Developer I",99,0.45
+"Staff Accountant III",96,0.43
+"Accounting Assistant IV",95,0.43
+"Programmer Analyst I",94,0.42
+"Software Engineer IV",94,0.42
+"Programmer Analyst II",93,0.42
+Editor,92,0.41
+"Chief Design Engineer",92,0.41
+"Help Desk Operator",92,0.41
+"Computer Systems Analyst II",92,0.41
+"Database Administrator II",91,0.41
+"Computer Systems Analyst I",90,0.41
+"Accountant II",89,0.40
+"Accounting Assistant I",89,0.40
+"Software Test Engineer IV",88,0.40
+"Software Test Engineer I",88,0.40
+"Systems Administrator IV",88,0.40
+"Accountant IV",87,0.39
+"Software Test Engineer III",87,0.39
+"Programmer I",86,0.39
+"Accountant III",86,0.39
+"Database Administrator I",84,0.38
+"Software Engineer II",84,0.38
+"Systems Administrator III",84,0.38
+"Developer III",83,0.37
+"Database Administrator III",83,0.37
+"Accounting Assistant II",83,0.37
+"Database Administrator IV",83,0.37
+"Programmer III",81,0.36
+"Developer I",81,0.36
+"Staff Accountant II",80,0.36
+"Programmer Analyst III",80,0.36
+"Accountant I",79,0.36
+"Programmer II",79,0.36
+"VP Accounting",77,0.35
+"Web Developer II",77,0.35
+"Computer Systems Analyst III",76,0.34
+"Programmer Analyst IV",76,0.34
+"Developer IV",76,0.34
+"Systems Administrator II",74,0.33
+"Software Test Engineer II",74,0.33
+"Computer Systems Analyst IV",72,0.32
+"Accounting Assistant III",72,0.32
+"Web Developer III",71,0.32
+"Financial Analyst",68,0.31
+"Developer II",67,0.30
+"Web Developer IV",66,0.30
+Paralegal,64,0.29
+"Programmer IV",63,0.28
+"Human Resources Manager",63,0.28
+"Quality Engineer",62,0.28
+"Product Engineer",59,0.27
+"Administrative Officer",59,0.27
+"Support Staff II",59,0.27
+"Senior Financial Analyst",59,0.27
+"Content Developer III",54,0.24
+"Content Developer",54,0.24
+"Design Engineer",54,0.24
+"Content Developer II",54,0.24
+"Internal Auditor",52,0.23
+"Media Manager II",49,0.22
+"Structural Analysis Engineer",48,0.22
+"Analog Circuit Design manager",48,0.22
+"Administrative Assistant II",46,0.21
+"Assistant Manager",45,0.20
+"VP Quality Control",43,0.19
+"VP Marketing",42,0.19
+"VP Product Management",41,0.18
+"Senior Attorney",40,0.18
+"Executive Assistant",40,0.18
+"Research Assistant",40,0.18
+Attorney,40,0.18
+"Administrative Assistant",40,0.18
+"Information Systems Manager",35,0.16
+"Web Designer I",34,0.15
+"Staff Scientist",33,0.15
+"General Manager",32,0.14
+"Electrical Engineer",31,0.14
+"Compensation Analyst",31,0.14
+"Automation Specialist II",30,0.14
+"Community Outreach Specialist",30,0.14
+"Automation Specialist I",28,0.13
+"Mechanical Systems Engineer",28,0.13
+"Financial Advisor",28,0.13
+Actuary,28,0.13
+Librarian,27,0.12
+"Payment Adjustment Coordinator",23,0.10
+"Recruiting Manager",22,0.10
+"Automation Specialist IV",21,0.09
+"Legal Assistant",20,0.09
+"Support Staff III",20,0.09
+"Research Assistant III",18,0.08
+"Administrative Assistant III",16,0.07
+"Human Resources Assistant I",15,0.07
+"Human Resources Assistant III",15,0.07
+"Senior Sales Associate",14,0.06
+"Web Designer III",13,0.06
+"Automation Specialist III",13,0.06
+"Statistician II",12,0.05
+"Statistician I",12,0.05
+"Graphic Designer",12,0.05
+"Human Resources Assistant IV",12,0.05
+"Human Resources Assistant II",10,0.05
+"Engineer I",9,0.04
+"Director of Sales",9,0.04
+"Marketing Assistant",8,0.04
+"Web Designer IV",8,0.04
+"Administrative Assistant IV",8,0.04
+"Research Assistant IV",7,0.03
+"Office Assistant I",7,0.03
+"Sales Associate",7,0.03
+"Engineer II",6,0.03
+"VP Sales",6,0.03
+"Business Development Manager",5,0.02
+"Engineer III",5,0.02
+"Sales Representative",5,0.02
+"Web Designer II",4,0.02
+"Statistician III",4,0.02
+"Engineer IV",3,0.01
+"Statistician IV",2,0.01
+"Executive Secretary",2,0.01
+"Account Coordinator",2,0.01
+"VP of Training and Development",1,0.00
+"Office Assistant IV",1,0.00
+"Office Assistant II",1,0.00
+"Assistant Professor",1,0.00
+"Marketing Manager",1,0.00
+"Associate Professor",1,0.00
